@@ -171,7 +171,6 @@ You can ask questions and join the development discussion:
 You can also post **bug reports and feature requests** (only)
 in [GitHub issues](https://github.com/keras-team/keras/issues).
 
-
 ---
 
 ## Opening a PR
